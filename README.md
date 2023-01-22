@@ -1,7 +1,7 @@
 [![MasterHead](https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Paritosh Verma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockposedon&label=Profile%20views&color=0e75b6&style=flat" alt="rockposedon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockposedon" alt="rockposedon" /></a> </p>
