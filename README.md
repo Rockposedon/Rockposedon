@@ -1,9 +1,7 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Paritosh Verma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rockposedon&label=Profile%20views&color=0e75b6&style=flat" alt="rockposedon" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockposedon" alt="rockposedon" /></a> </p>
 
 - 🔭 I’m currently working on **Water Management system of Indore**
@@ -15,7 +13,7 @@
 - 💬 Ask me about **python,front-end**
 
 - 📫 How to reach me **paritoshrock666666@gmail.com**
-
+<img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paritosh-verma-717628234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paritosh-verma-717628234" height="30" width="40" /></a>
