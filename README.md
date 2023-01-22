@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Paritosh Verma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
