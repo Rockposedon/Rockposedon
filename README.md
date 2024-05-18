@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Flask, MySql, NoSQL, REST API, and javascript**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/paritosh--verma](https://sites.google.com/view/paritosh--verma)
+- 👨‍💻 All of my projects are available at [My portfolio]{https://rockposedon.github.io/}
 
 
 
